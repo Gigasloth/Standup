@@ -1,5 +1,5 @@
 package com.gigasloth.standup
 
-data class Model(
+data class StandupData(
     val disciplines: ArrayList<Discipline>
 )

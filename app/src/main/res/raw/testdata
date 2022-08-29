@@ -1,0 +1,36 @@
+{
+  "disciplines": [
+    {
+      "members": [
+        "Madison",
+        "Cynthia",
+        "Gary",
+        "Michelle"
+      ],
+      "name": "Product"
+    },
+    {
+      "members": [
+        "Mike"
+      ],
+      "name": "Design"
+    },
+    {
+      "members": [
+        "Stephen",
+        "Jerrod",
+        "Tyler",
+        "Yoshi",
+        "Danny"
+      ],
+      "name": "Engineering"
+    },
+    {
+      "members": [
+        "Ben",
+        "Kevin"
+      ],
+      "name": "QA"
+    }
+  ]
+}
